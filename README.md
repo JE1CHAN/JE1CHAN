@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="YOUR_PHOTO_URL_HERE" alt="My Photo" width="200" style="border-radius:50%;"/>
+  <img src="https://github.com/JE1CHAN/JE1CHAN/blob/main/me.png?raw=true" alt="My Photo" width="200" style="border-radius:50%;"/>
 </p>
 
 <p align="center">
