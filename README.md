@@ -11,9 +11,16 @@
   Passionate about crafting aesthetic UI, creative visuals, and clean, efficient systems.
 </p>
 
+
+
+```IT Student```
+```AI Prompt Engineer```
+```Graphic Designer```
+```Digital Artist```
+
 ---
 
-```IT Student``` ```AI Prompt Engineer``` ```Graphic Designer``` ```Digital Artist```
+
 
 
 
