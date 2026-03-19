@@ -26,7 +26,7 @@
 
 
 Languages I Know
-<p> <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python,java" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python,java,php" /> </p>
 
 Tools / Frameworks I'm Learning
 <p> <img src="https://skillicons.dev/icons?i=vscode,bootstrap,tailwind,nodejs,git,github,docker,postman" /> </p>
